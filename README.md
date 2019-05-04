@@ -1,1 +1,1 @@
-# polyrec
+# polyherec
