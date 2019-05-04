@@ -1,12 +1,12 @@
 # polyhedrec
-
+A python library to reconstruct 3d convex polyhedra from their face normals and areas.
 To use the library, import it into python (works with both python 2 and python 3). For instructions on how to use it, use the python `help` function on the `reconstruct` function from the library:
 ```python
 import polyhedrec
 
 help(polyhedrec.reconstruct)
-
 ```
+
 For reference, the output of the help function is the following:
 ```
 Reconstruct (up to translation) a polyhedron from its outward unit normals
